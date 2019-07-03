@@ -703,7 +703,7 @@ h2, .headline-secondary, .headline-secondary--grouped {
   width: 100%;
   padding: 1em 0.4em;
   box-sizing: border-box;
-  background: #fff;
+  background: #d62;
 }
 [id^=acc]:checked + label {
   font-weight: 300;
