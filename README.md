@@ -7,5 +7,5 @@ What's better is that it exports EVERYTHING easier in a zip archive! This means 
 I like it a lot!!!
 ## Better.Faster. Stronger.
 
-# Version 0.0.2
-## Version name:Good Improvement
+# Version 0.0.3
+## Version name:Artistic Author
